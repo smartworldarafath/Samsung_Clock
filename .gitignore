@@ -1,0 +1,25 @@
+# Keystores, signing artifacts & secrets
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.idsig
+.env
+.env.*
+credentials.json
+google-services.json
+local.properties
+
+# Build & decompile caches
+build/
+dist/
+out/
+__pycache__/
+*.pyc
+*.class
+*.dex
+*.tmp
+.DS_Store
+Thumbs.db
