@@ -2,7 +2,7 @@
   <img src="assets/icon.png" width="120" height="120" alt="Samsung Clock" />
 </p>
 
-<h1 align="center">Samsung Clock — One UI 9 Port</h1>
+<h1 align="center">Samsung Clock (One UI 9) </h1>
 
 <p align="center">
   <code>com.sec.android.app.clockpackage</code> · v12.5.60.27 · Android 12+ (API 31–36) · No Root Required
